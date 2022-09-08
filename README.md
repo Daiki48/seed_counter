@@ -4,6 +4,10 @@
 
 The seed is a crate of rust.
 
+# Image
+
+![counter](./image/counter_seed.mov)
+
 # Usage
 
 ```shell
