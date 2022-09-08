@@ -6,7 +6,7 @@ The seed is a crate of rust.
 
 # Image
 
-![counter](./image/counter_seed.mov)
+https://user-images.githubusercontent.com/102207294/189039402-ecf40eed-a352-4159-a1e6-6b2621315f75.mov
 
 # Usage
 
